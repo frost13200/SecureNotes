@@ -1,0 +1,6 @@
+{
+  "name": "Secure Notes",
+  "description": "A highly secure, offline-first notes app with local AES-256 encryption, biometrics, master password, in-app lock, note locking, and secure local backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
